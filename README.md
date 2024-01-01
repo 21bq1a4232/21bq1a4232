@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently pursuing my btech in computer science<br>👯 I’m looking to collaborate on full stack development(python and java) and Machine learning<br>🤝 I’m looking for help with getting some interviews, more probably internships<br>🌱 I’m currently learning Java springboot<br>💬 Ask me about about django,OOPS,Front end development<br>⚡ Fun fact - I am pretty but damn smart
+🔭 I'm currently pursuing my btech in computer science<br>👯 I’m looking to collaborate on full stack development(python and java) and Machine learning<br>🤝 I’m looking for help with getting some interviews, internships<br>🌱 I’m currently working on Java springboot<br>💬 Ask me about about django,OOPS,Front end development<br>⚡ Fun fact - I am pretty but damn smart
 
 
 ## 🌐 Socials:
@@ -26,5 +26,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=21bq1a4232&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

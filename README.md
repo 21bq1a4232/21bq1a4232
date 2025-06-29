@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I'm currently pursuing my btech in computer science<br>👯 I’m looking to collaborate on full stack development(python and java) and Machine learning<br>🤝 I’m looking for help with getting some interviews, internships<br>🌱 I’m currently working on Java springboot<br>💬 Ask me about django,OOPS,Front end development<br>⚡ Fun fact - I am pretty lazy but damn smart
-
+Software Engineer with a proven track record delivering scalable backend systems and
+microservices using Java Spring Boot and Python Django. Skilled in designing RESTful APIs,
+integrating cloud technologies, and automating deployments with CI/CD pipelines. Committed to
+building secure, high-performance solutions that drive business impact in Agile environments.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranav_krishna_317) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-krishna-47016421b/) 
